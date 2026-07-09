@@ -1,0 +1,17 @@
+.cart {
+  min-height: 60vh;
+  padding: 60px;
+  background: #f4f7fb;
+  color: #1f2937;
+}
+
+.cart h1 {
+  font-size: 36px;
+  margin-bottom: 12px;
+}
+
+.cart p {
+  font-size: 18px;
+  color: #4b5563;
+}
+
